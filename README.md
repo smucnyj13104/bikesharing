@@ -1,5 +1,5 @@
 # Link to Tableau Story
-[link to dashboard](https://public.tableau.com/app/profile/jason.jason/viz/TableauCityBikeChallenge/CityBikeStory)
+[link to Tableau Story](https://public.tableau.com/app/profile/jason.jason/viz/TableauCityBikeChallenge/CityBikeStory)
 
 # Overview
 - The purpose of this analysis was to use city bike data from NYC (manhattan) to determine if it makes sense to have a city bike program in Des Moines. 
